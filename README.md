@@ -1,3 +1,5 @@
+# GlobalProtect
+
 **GlobalProtect** VPN is a comprehensive security solution developed by **Palo Alto Networks** that provides secure remote access to corporate networks. It is designed to ensure that all communications between remote devices (such as laptops, smartphones, and tablets) and enterprise infrastructure are encrypted and secure. GlobalProtect VPN is widely used by organizations to extend their internal network security to users working from remote locations.
 
 In this repository, you’ll find a variety of resources aimed at helping IT professionals, developers, and system administrators configure, deploy, and automate **GlobalProtect VPN** setups. Whether you're looking to streamline VPN configuration for a small team or automate the connection process across an enterprise environment, this repository provides useful tools and examples.
