@@ -2,8 +2,6 @@
 
 **GlobalProtect** is a security solution that protects users and data while enabling secure access to corporate resources worldwide. Extending enterprise-grade security policies to all endpoints, it leverages next-generation firewall technology to safeguard sensitive information, boost productivity, and mitigate risks, ensuring seamless, secure connectivity for businesses.
 
-## Table of Contents
-
 - [Download GlobalProtect](#download-globalprotect)
 - [Install GlobalProtect](#install-globalprotect)
 - [System Requirements](#system-requirements)
